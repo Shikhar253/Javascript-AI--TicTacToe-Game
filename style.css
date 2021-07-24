@@ -1,3 +1,9 @@
+body {
+	background-image: url("paper.jpg");
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+  	background-size: cover;
+   }
 td {
 	border:  2px solid #333;
 	height:  100px;
